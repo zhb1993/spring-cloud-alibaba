@@ -1,6 +1,5 @@
-package com.zhb;
+package com.example;
 
-import org.apache.dubbo.container.Main;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import java.io.IOException;

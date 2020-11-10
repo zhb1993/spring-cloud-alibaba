@@ -1,4 +1,4 @@
-package com.zhb;
+package com.example;
 
 public class UserServiceImpl implements IUserService{
     public String getNameById(String uid) {

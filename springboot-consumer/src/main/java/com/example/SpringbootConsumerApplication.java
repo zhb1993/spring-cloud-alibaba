@@ -1,4 +1,4 @@
-package com.zhb;
+package com.example;
 
 import org.apache.dubbo.config.annotation.Reference;
 import org.springframework.boot.ApplicationRunner;

@@ -1,4 +1,4 @@
-package com.zhb;
+package com.example;
 
 import org.apache.dubbo.config.spring.context.annotation.DubboComponentScan;
 import org.springframework.boot.SpringApplication;

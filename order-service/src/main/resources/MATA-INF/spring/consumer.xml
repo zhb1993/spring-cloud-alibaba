@@ -11,5 +11,5 @@
     <dubbo:application name="order-service"/>
     <dubbo:registry address="N/A"/>
     <!--生成远程服务代理，可以和本地Bean一样使用userService-->
-    <dubbo:reference id="userService" interface="com.zhb.IUserService" url="dubbo://192.168.0.105:20880/com.zhb.IUserService"/>
+    <dubbo:reference id="userService" interface="com.example.IUserService" url="dubbo://192.168.0.105:20880/com.example.IUserService"/>
 </beans>

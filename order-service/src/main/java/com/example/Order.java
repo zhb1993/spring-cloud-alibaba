@@ -1,4 +1,4 @@
-package com.zhb;
+package com.example;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

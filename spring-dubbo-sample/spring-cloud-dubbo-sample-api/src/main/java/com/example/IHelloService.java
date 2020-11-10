@@ -1,4 +1,4 @@
-package com.zhb;
+package com.example;
 
 public interface IHelloService {
 

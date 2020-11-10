@@ -11,6 +11,7 @@
         <module>order-service</module>
         <module>user-service</module>
         <module>springboot-provider</module>
+        <module>spring-dubbo-sample</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
