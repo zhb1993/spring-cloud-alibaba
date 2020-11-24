@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/hello")
 public class HelloController {
 
-    @Reference
+    @Reference(mock = "com.example.service.MockHelloService", cluster = "failfast")
     private IHelloService iHelloService;
 
     @GetMapping("/say")
